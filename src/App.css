@@ -1,0 +1,13 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: sans-serif;
+  color: black;
+}
+
+.App h1 {
+  color: coral;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
